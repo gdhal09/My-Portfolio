@@ -7,7 +7,7 @@
 Built a Linear Regression model to understand the factors resulting in reduction in sales of bikes.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logi=GitHub)](https://github.com/gdhal09/Bike-Sharing_Linear-Regression)
-<center><img src="assets/img/DALL·E 2023-03-02 10.55.56 - bike sharing.png"/></center>
+<center><img src="assets/img/bikeimages.jpeg"/></center>
 
 
 ## Header 2
