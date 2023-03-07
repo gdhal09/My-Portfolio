@@ -5,7 +5,7 @@
 # Project1: Bike Sharing
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-[![View on GitHub] (https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logi=GitHub)]([https...link_githb](https://github.com/gdhal09/Bike-Sharing_Linear-Regression)
+[![View on GitHub] (https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logi=GitHub)](https://github.com/gdhal09/Bike-Sharing_Linear-Regression)
 <center><img src="assets/img/DALL·E 2023-03-02 10.55.56 - bike sharing.png"/></center>
 
 
