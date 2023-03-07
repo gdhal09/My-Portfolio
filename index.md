@@ -18,7 +18,11 @@ Built a Linear Regression model to understand the factors resulting in reduction
 > When something is important enough, you do it even if the odds are not in your favor.
 ---
 
-### Header 3
+### Predicting onset of Arribada among Olive Ridley Turtles at Rushikulya,Odisha
+
+<center><img src="assets/img/IMG_001_2_1_QBAUUEVT.jpg"/></center>
+
+---
 
 ```js
 // Javascript code with syntax highlighting.
