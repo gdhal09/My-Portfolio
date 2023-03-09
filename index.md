@@ -4,7 +4,7 @@
 
 ### Bike Sharing: Multiple Linear Regression Model
 
-The aim here is to build a multiple linear regression model for prediction of demand for shared bikes for a US bike-sharing service provider, **BoomBikes**. The business goal here is to understand the various factors resulting in dip in demand for the bike-sharing services post the pandemic and manipulate the business strategy to meet the demand levels and meet the customer’s expectations.
+>The aim here is to build a multiple linear regression model for prediction of demand for shared bikes for a US bike-sharing service provider, **BoomBikes**. The business goal here is to understand the various factors resulting in dip in demand for the bike-sharing services post the pandemic and manipulate the business strategy to meet the demand levels and meet the customer’s expectations.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logi=GitHub)](https://github.com/gdhal09/Bike-Sharing_Linear-Regression)
 <center><img src="assets/img/bikeimages.jpeg"/></center>
