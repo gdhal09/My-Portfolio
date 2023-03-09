@@ -13,9 +13,11 @@
 
 ### Lead Scoring: Logistic Regression Model
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> Building a Logistic Regression model for X Education company to target the most promising leads which will result in conversion (Chrun), ie, to opt for the online course provided by the company. The goal is to assign a lead score between 0 to 100 to each of the leads which will be used by the company to target potential leads.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logi=GitHub)](https://github.com/gdhal09/Lead-Score-Case-Study)
+<center><img src="assets/img/lead scoring.png"/></center>
+
 ---
 
 ### Predicting onset of Arribada among Olive Ridley Turtles at Rushikulya,Odisha
