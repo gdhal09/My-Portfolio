@@ -21,7 +21,22 @@
 <center><img src="assets/img/lead scoring.png"/></center>
 
 ---
+### Heart Disease Prediction
 
+> Heart disease prediction using Decision Tress and Random Forest
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logi=GitHub)](https://github.com/gdhal09/HeartDisease)
+<center><img src="assets/img/heart disease.png"/></center>
+
+---
+### Telecom Churn
+
+> Telecom Churn prediction using Logistic Regression, Decision Trees and Random Forest
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logi=GitHub)](https://github.com/gdhal09/Telecom-Chrun)
+<center><img src="assets/img/telecom churn.jpg"/></center>
+
+---
 ### Predicting onset of Arribada among Olive Ridley Turtles at Rushikulya,Odisha
 > Rushikulya, Odisha is known to be second largest nesting sites in the world for Olive Ridley turtles. These endangered species are the only species which undergo synchronous mass nestting, a phenomenon also called as 'Arribada'. The aim of the study was to predit the onset of Arribada using environmental cues to understand the various factors which might provide information about the start date for the nesting. 
 
