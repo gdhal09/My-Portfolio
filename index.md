@@ -3,6 +3,18 @@
 ---
 # Data Science Portfolio
 ---
+### Style Learning using GAN
+
+> Built a deep learning network using CycleGAN for converting T1 MRI image to T2 MRI image and vise versa
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logi=GitHub)](https://github.com/gdhal09/Bike-Sharing_Linear-Regression)
+<center><img src="assets/img/bikeimages.jpeg"/></center>
+
+---
+
+
+
+
 
 ### Bike Sharing: Multiple Linear Regression Model
 
